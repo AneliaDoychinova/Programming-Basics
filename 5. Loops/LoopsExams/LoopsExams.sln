@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{18A07D23-6BF0-4E98-AD78-DF85735DD90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divided", "Divided\Divided.csproj", "{AAF75CA9-5C78-47E9-9D5B-F92BA765360F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLili", "SmartLili\SmartLili.csproj", "{B088E216-3B80-414B-BD44-A5922F787FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A07D23-6BF0-4E98-AD78-DF85735DD90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A07D23-6BF0-4E98-AD78-DF85735DD90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A07D23-6BF0-4E98-AD78-DF85735DD90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A07D23-6BF0-4E98-AD78-DF85735DD90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF75CA9-5C78-47E9-9D5B-F92BA765360F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF75CA9-5C78-47E9-9D5B-F92BA765360F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF75CA9-5C78-47E9-9D5B-F92BA765360F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF75CA9-5C78-47E9-9D5B-F92BA765360F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B088E216-3B80-414B-BD44-A5922F787FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B088E216-3B80-414B-BD44-A5922F787FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B088E216-3B80-414B-BD44-A5922F787FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B088E216-3B80-414B-BD44-A5922F787FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
