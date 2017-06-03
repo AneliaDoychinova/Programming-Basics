@@ -1,6 +1,0 @@
-d:\documents\visual studio 2012\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
-d:\documents\visual studio 2012\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
-d:\documents\visual studio 2012\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
-d:\documents\visual studio 2012\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache
-d:\documents\visual studio 2012\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
-d:\documents\visual studio 2012\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb
